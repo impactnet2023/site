@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1918px" height="719px" viewBox="0 0 1918 719" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>linhas bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1920" height="1078"></rect>
+    </defs>
+    <g id="Page_New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-" transform="translate(0.000000, -1045.000000)">
+            <g id="linhas-bg" transform="translate(-2.000000, 923.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle"></g>
+                <g id="linhas" opacity="0.203096" mask="url(#mask-2)" stroke="#ed3237">
+                    <g transform="translate(827.500000, 23.500000) rotate(10.000000) translate(-827.500000, -23.500000) translate(-551.000000, -1355.000000)" id="wave">
+                        <path d="M398,416.221143 L2030.4721,409 C2356.34839,706.18512 2439.75553,1035.41204 2280.69352,1396.68077 C2042.10051,1938.58386 1674.00419,1472.86396 1435.69478,2023.47661 C1276.82184,2390.5517 944.574623,2446.22215 438.953135,2190.48794 L398,416.221143 Z" transform="translate(1378.476567, 1378.500000) scale(-1, 1) rotate(47.000000) translate(-1378.476567, -1378.500000) "></path>
+                        <path d="M398.254257,455.99372 L2030.72636,448.772577 C2356.60265,745.957697 2440.00979,1075.18462 2280.94778,1436.45334 C2042.35476,1978.35643 1674.25844,1512.63654 1435.94903,2063.24918 C1277.07609,2430.32428 944.82888,2485.99472 439.207392,2230.26052 L398.254257,455.99372 Z" transform="translate(1378.730825, 1418.272577) scale(-1, 1) rotate(67.000000) translate(-1378.730825, -1418.272577) "></path>
+                        <path d="M398,444.221143 L2030.4721,437 C2356.34839,734.18512 2439.75553,1063.41204 2280.69352,1424.68077 C2042.10051,1966.58386 1674.00419,1500.86396 1435.69478,2051.47661 C1276.82184,2418.5517 944.574623,2474.22215 438.953135,2218.48794 L398,444.221143 Z" transform="translate(1378.476567, 1406.500000) scale(-1, 1) rotate(57.000000) translate(-1378.476567, -1406.500000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
