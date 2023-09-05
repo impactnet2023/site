@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="565px" height="565px" viewBox="0 0 565 565" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page_New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.553408668">
+        <g id="Page-Pacote" transform="translate(-962.000000, -3087.000000)" stroke="#c50c0e">
+            <g id="Group-14" transform="translate(963.000000, 3088.000000)">
+                <g id="Group-8">
+                    <path d="M281.5,563 C436.968157,563 563,436.968157 563,281.5 C563,126.031843 436.968157,0 281.5,0 C126.031843,0 0,126.031843 0,281.5 C0,436.968157 126.031843,563 281.5,563 Z" id="Oval" stroke-dasharray="10"></path>
+                    <circle id="Oval" cx="282.5" cy="282.5" r="225.5"></circle>
+                    <path d="M282,451 C375.336123,451 451,375.336123 451,282 C451,188.663877 375.336123,113 282,113 C188.663877,113 113,188.663877 113,282 C113,375.336123 188.663877,451 282,451 Z" id="Oval" stroke-dasharray="10"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
